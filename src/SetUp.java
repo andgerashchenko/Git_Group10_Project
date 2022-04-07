@@ -3,5 +3,10 @@ public class SetUp {
 
     // Andrey made a branch
     // new info
+
     // new changes
+=======
+
+    // Vugar made some changes
+
 }
