@@ -8,6 +8,17 @@ public class SetUp {
 //=======
     // Andrey made a branch
     // new info
+//<<<<<<< Mohammad
 //>>>>>>> Andrey
   //Nemat made some changes
+//=======
+
+    // new changes
+//=======
+
+    // Vugar made some changes
+
+//>>>>>>> develop
+  
+//  Nemat made a second change 
 }
